@@ -12,7 +12,7 @@
     "webpack": "^5.0.0",
     "eslint": "^7.32.0"
   },
-  "homepage": "https://blinqinc.github.io/blinqui",
+  "homepage": "https://blinqinc.github.io",
   "keywords": [
     "SPA",
     "GitHub Pages",
