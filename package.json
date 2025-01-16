@@ -1,0 +1,35 @@
+{
+  "name": "blinq-spa-app",
+  "version": "1.0.0",
+  "description": "A simple Single Page Application deployed to GitHub Pages",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^3.2.3",
+    "webpack": "^5.0.0",
+    "eslint": "^7.32.0"
+  },
+  "homepage": "https://blinqinc.github.io/blinqui",
+  "keywords": [
+    "SPA",
+    "GitHub Pages",
+    "React",
+    "Deployment"
+  ],
+  "author": "<Your Name>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blinqinc/blinqui/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blinqinc/blinqui.git"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  }
+}
