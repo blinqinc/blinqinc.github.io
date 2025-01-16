@@ -1,0 +1,25 @@
+{
+  "name": "Blinq",
+  "short_name": "Blinq",
+  "description": "Blinq App",
+  "id": "blinq_app",
+  "icons": [
+    {
+      "src": "static/blinqlogo4-light.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "categories": ["social"],
+  "screenshots": [
+    {
+      "src": "screenshots/desktop-wide.png",
+      "sizes": "2880x1572",
+      "type": "image/png"
+    }
+  ]
+}
